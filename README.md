@@ -1,7 +1,8 @@
 # Mining
 Tweets Dataset containing 1.6 million tweets can be downloaded here :
 https://www.kaggle.com/malikhasan/16-million-sentiment-tweets
-
+used IMDB Dataset for Movies
+Spotify Dataset for songs
 
 Developed a Recommender System that recommends songs and movies based on analyzing sentiment of a tweet or a text. Used LSTM-RNN from keras inorder to perform sentiment analysis.
 
